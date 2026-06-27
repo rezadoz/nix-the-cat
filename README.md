@@ -53,3 +53,7 @@
 ### 2026/05/13
 **Weight:** 5.7 LB
 First day home. Very friendly and already a lap cat.
+
+### 2026/06/27
+**Weight:** 9 LB
+Happy healthy cat
