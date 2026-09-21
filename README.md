@@ -1,6 +1,6 @@
 # Nix (Cat)
 
-[TOC]
+<img width="614" height="816" alt="image" src="https://github.com/user-attachments/assets/325b0938-0ddd-49a5-bfc0-2f7d3ced82f0" />
 
 ## Specs
 **Name:** Nix
