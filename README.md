@@ -59,3 +59,9 @@ First day home. Very friendly and already a lap cat.
 **Weight:** 9 LB
 
 Happy healthy cat
+
+
+### 2026/09/20
+**Weight:** 11 LB
+
+* +Clicker training
